@@ -1,1 +1,3 @@
-# Nvidia-final-project
+# Nvidia-final-project: Forestfire AI
+Forest fires are a significant threat to the environment, wildlife, and human lives, causing substantial damage and destruction. However, the use of artificial intelligence (AI) can help prevent and mitigate the damage caused by forest fires. This project can recognize fire in an image using detectnet and help stop the wildfires occurring in the forests and jungles.
+By leveraging the power of AI, we can improve our ability to prevent and manage forest fires, ultimately helping to preserve our natural resources and protect the lives and property of people living in fire-prone areas.

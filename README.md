@@ -13,5 +13,7 @@ After image classification code, go to your terminal and type
 2. wget https://github.com/dusty-nv/jetson-inference/raw/master/data/images/polar_bear.jpg
 3. python3 my-recognition imagename.jpg --> here should be your already saved image name and extension in my-recognition folder.
 
+Note: I have images saved as volcano1.jpg, volcano2.png etc so I use python3 my-recognition volcano1.jpg for step 3 in visual code studio terminal.
+
 Video explaination: https://youtu.be/5h1y6mBVYow
 
